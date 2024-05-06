@@ -1,0 +1,9 @@
+had to download snp eff
+and then the documantaion 
+get the command to annonate a given vcf fie
+i had to reasearch how t run a java command on python
+prblem i faced:
+    - java version was not suporting 64 bit so it have a memorry error
+    - then i jad jdk 8 but the eff programm demanded a java above jdk 11
+    - then i missed out wrting the outout as a file 
+    - and ist should have been the test file not the main file

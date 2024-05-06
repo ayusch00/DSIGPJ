@@ -1,0 +1,5 @@
+# Ignore specific VCF file
+data/clinvar.vcf
+
+# Ignore specific directory and its contents
+snpEff/data/GRCh37.75/

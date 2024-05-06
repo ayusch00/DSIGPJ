@@ -1,0 +1,6 @@
+i dint knew what interpretations could be in clinvar
+Common INFO Tags for Interpretation Data
+CLNSIG (Clinical Significance): Indicates the clinical significance of the variant. Possible values include "Pathogenic", "Likely pathogenic", "Uncertain significance", "Likely benign", and "Benign".
+CLNREVSTAT (Review Status): Represents the review status of the variant annotation. Examples include "reviewed by expert panel" or "criteria provided, multiple submitters, no conflicts".
+METHOD (Method used for classification): This might not be standard in all VCF files but can sometimes be found in clinical or research-oriented VCFs.
+ORIGIN (Origin of the variant): Information about whether the variant is germline, somatic, inherited, etc.

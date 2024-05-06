@@ -1,0 +1,8 @@
+##fileformat=VCFv4.3
+##reference=/mnt/external/results/referenceLibrary/tmap-f3/hg19/hg19.fasta
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	CLINGEN
+11	108198392	.	T	TA	.	PASS	.	GT	./.
+16	23646274	.	CA	C	.	PASS	.	GT	./.
+17	41215954	.	A	G	.	PASS	.	GT	./.
+17	41258551	.	C	A	.	PASS	.	GT	./.
